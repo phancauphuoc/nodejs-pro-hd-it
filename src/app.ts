@@ -6,7 +6,7 @@ const app = express();
 const PORT = 8080;
 
 app.get("/", (req, res) => {
-    res.send("Hello Word");
+    res.send("Hello Word Update");
 })
 
 app.get("/phuoc", (req, res) => {
