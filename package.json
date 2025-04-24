@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/phancauphuoc/nodejs-pro-hd-it/issues"
   },
-  "homepage": "https://github.com/phancauphuoc/nodejs-pro-hd-it#readme"
+  "homepage": "https://github.com/phancauphuoc/nodejs-pro-hd-it#readme",
+  "dependencies": {
+    "express": "5.0.1"
+  }
 }
